@@ -5,6 +5,8 @@
 
 ueditor for nodejs 可以让你的UEditor支持nodejs
 
+TODO: 让之支持multer，而不使用busboy
+
 ## ueditor@1.0.0 已经全面升级 。
 
 ##Installation
